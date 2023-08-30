@@ -13,7 +13,7 @@ eligibility.addEventListener("click", function () {
   const userAge = ageInput.value;
   if (!userAge) {
     console.log("hiiiii");
-    document.querySelector("#result-show").innerHTML = "Please enter age";
+    document.querySelector("#result-show").innerHTML = "Please Enter Age";
     return;
   }
   if (userAge < 18) {
