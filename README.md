@@ -1,1 +1,1 @@
-# Elible to vote using js
+## Eligible to vote using js

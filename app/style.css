@@ -1,0 +1,34 @@
+#result-show {
+  font-size: 25px;
+  text-align: center;
+  margin-top: 25px;
+}
+.content {
+  text-align: center;
+  background-color: aliceblue;
+  height: 500px;
+}
+h1 {
+  font-family: sans-serif;
+  margin-top: 20px;
+}
+.inner-content {
+  padding: 50px;
+}
+#btn-clear {
+  background-color: red;
+  color: white;
+  border: none;
+  width: 75px;
+  font-size: 15px;
+  border-radius: 5px;
+  padding: 2px;
+}
+#btn-eligibility {
+  background-color: dodgerblue;
+  border: none;
+  color: white;
+  height: 25px;
+  width: 300px;
+  border-radius: 5px;
+}
